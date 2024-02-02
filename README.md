@@ -10,7 +10,7 @@ Todo list application that can create, read, update, delete, and mark completed.
 
 `cd /frontend`
 
-`npm run production`
+`npm start`
 
 3. in /backend/to-do-list directory, run spring boot aplication using maven
 
@@ -22,4 +22,9 @@ Todo list application that can create, read, update, delete, and mark completed.
 
 ### Snapshot of Application
 
-![ToDoList App](https://i.imgur.com/7bjdoTW.png)
+![Home](https://github.com/sukrit2906/Tasklist/assets/76651889/0edd6f9e-58ea-4dd4-9513-8646991a39a6)
+
+![TaskList](![image](https://github.com/sukrit2906/Tasklist/assets/76651889/f41892b1-8e79-483b-a67b-9079b8c69204))
+
+![Add task](![image](https://github.com/sukrit2906/Tasklist/assets/76651889/cd511105-265b-446f-9206-b3921376c2a1))
+
