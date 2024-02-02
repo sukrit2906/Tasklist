@@ -1,7 +1,7 @@
 # Task list App
 
 ### Overview
-Todo list application that can create, read, update, delete, and mark completed. This application also implement filtering and pagination. Front end is developed using react and backend is developed using spring boot.
+Task list application that can create, read, update, delete, and mark completed. This application also implement filtering and pagination. Front end is developed using react and backend is developed using spring boot.
 
 ### How to Run Application
 
@@ -22,9 +22,13 @@ Todo list application that can create, read, update, delete, and mark completed.
 
 ### Snapshot of Application
 
+![Sign up](https://github.com/sukrit2906/Tasklist/assets/76651889/a0c498ff-17b1-4a11-b307-1fc6551a9323)
+
 ![Home](https://github.com/sukrit2906/Tasklist/assets/76651889/0edd6f9e-58ea-4dd4-9513-8646991a39a6)
 
-![TaskList](![image](https://github.com/sukrit2906/Tasklist/assets/76651889/f41892b1-8e79-483b-a67b-9079b8c69204))
+![Task list](https://github.com/sukrit2906/Tasklist/assets/76651889/f41892b1-8e79-483b-a67b-9079b8c69204)
 
-![Add task](![image](https://github.com/sukrit2906/Tasklist/assets/76651889/cd511105-265b-446f-9206-b3921376c2a1))
+![Add task](https://github.com/sukrit2906/Tasklist/assets/76651889/cd511105-265b-446f-9206-b3921376c2a1)
+
+
 
